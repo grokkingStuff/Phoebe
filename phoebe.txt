@@ -1,0 +1,20 @@
+
+
+
+* Stuff to add to Phoebe
+- Units of Measure
+- Level of Precision
+- Level of Accuracy.
+
+
+
+ * Reserve Analysis
+ - How does reserve analysis affect the estimation of time AND the total duration of project.
+
+
+
+
+
+
+ * Need to make Anki Cards for all the different terms.
+ - Earned Value is especially annoying to remember.
